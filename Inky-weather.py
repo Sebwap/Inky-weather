@@ -251,7 +251,7 @@ x =0
 y = 18
 draw.text((x, y), message, BLACK, fontDATE)
 
-message="Vincennes"
+message="Your city name"
 #w, h = fontDATE.getsize(message)
 x =0
 y = 28
